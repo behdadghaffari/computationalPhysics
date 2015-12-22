@@ -1,0 +1,5 @@
+(A)	Experiment report
+(B)	Continuum HW
+(C)	Solid State HW
+(D)	Computational HW
+(E)	English HW
