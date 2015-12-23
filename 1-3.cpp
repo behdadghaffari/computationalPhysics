@@ -3,6 +3,7 @@
 
 int main(){
 	float analytic = 0;
+	//salam
 	analytic= sin(1);
 	float series = 0;
 	float factor = 1;
